@@ -1,0 +1,13 @@
+E:\Akshay_Project\Insert_Elemenet\Insert_Elemenet\bin\Debug\netcoreapp3.1\Insert_Elemenet.exe
+E:\Akshay_Project\Insert_Elemenet\Insert_Elemenet\bin\Debug\netcoreapp3.1\Insert_Elemenet.deps.json
+E:\Akshay_Project\Insert_Elemenet\Insert_Elemenet\bin\Debug\netcoreapp3.1\Insert_Elemenet.runtimeconfig.json
+E:\Akshay_Project\Insert_Elemenet\Insert_Elemenet\bin\Debug\netcoreapp3.1\Insert_Elemenet.runtimeconfig.dev.json
+E:\Akshay_Project\Insert_Elemenet\Insert_Elemenet\bin\Debug\netcoreapp3.1\Insert_Elemenet.dll
+E:\Akshay_Project\Insert_Elemenet\Insert_Elemenet\bin\Debug\netcoreapp3.1\Insert_Elemenet.pdb
+E:\Akshay_Project\Insert_Elemenet\Insert_Elemenet\obj\Debug\netcoreapp3.1\Insert_Elemenet.csprojAssemblyReference.cache
+E:\Akshay_Project\Insert_Elemenet\Insert_Elemenet\obj\Debug\netcoreapp3.1\Insert_Elemenet.AssemblyInfoInputs.cache
+E:\Akshay_Project\Insert_Elemenet\Insert_Elemenet\obj\Debug\netcoreapp3.1\Insert_Elemenet.AssemblyInfo.cs
+E:\Akshay_Project\Insert_Elemenet\Insert_Elemenet\obj\Debug\netcoreapp3.1\Insert_Elemenet.csproj.CoreCompileInputs.cache
+E:\Akshay_Project\Insert_Elemenet\Insert_Elemenet\obj\Debug\netcoreapp3.1\Insert_Elemenet.dll
+E:\Akshay_Project\Insert_Elemenet\Insert_Elemenet\obj\Debug\netcoreapp3.1\Insert_Elemenet.pdb
+E:\Akshay_Project\Insert_Elemenet\Insert_Elemenet\obj\Debug\netcoreapp3.1\Insert_Elemenet.genruntimeconfig.cache
