@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aOqkfwbI0lXNcyJQfxJVLXJP85wbteA7UxfLVz1KxxHixau7z2CgGcV2Wgu3ptjWwH3ZKYwLRiIuOqoXpctipQ==",
+  "dgSpecHash": "kJcCsui+NO3LUyP2kOd02Jl4vbo1pEJ00uNomRHrKd5L6hgwnYOsFf92Skr4LvBf4POEHYCLlXm8eFDOngiFIg==",
   "success": true,
-  "projectFilePath": "E:\\Akshay_Project\\Insert_Elemenet\\Insert_Elemenet\\Insert_Elemenet.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Akshay_Project\\C\\Insert_Elemenet\\Insert_Elemenet\\Insert_Elemenet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kimaya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\kimaya\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\kimaya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\kimaya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
